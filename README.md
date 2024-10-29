@@ -1,4 +1,4 @@
-# Repoisasi
+# Repoisasi **still in test**
 
 **Repoisasi** is a simple automation tool designed to make a daily commit to your GitHub repository, keeping your contribution graph green and active. This program is built in Golang and is configurable to push a random "Hello World" string in various programming languages each day.
 
